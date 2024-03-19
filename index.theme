@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ZorinEverforest-Dark
+Comment=The dark desktop theme with ZorinEverforest highlights for Zorin OS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ZorinEverforest-Dark
+MetacityTheme=ZorinEverforest-Dark
+IconTheme=ZorinEverforest-Dark
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
