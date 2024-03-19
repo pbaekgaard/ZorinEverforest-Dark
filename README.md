@@ -1,4 +1,4 @@
 # ZorinEverforest-Dark
 Everforest theme for ZorinOS 17.
 
-Place folder in ~/.themes
+To install theme, simply git clone this repository inside the ~/.themes folder.
